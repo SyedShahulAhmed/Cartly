@@ -1,6 +1,9 @@
 # **Cartly** 🛒✨  
 Welcome to **Cartly**, your modern and responsive shopping cart application! Built with the power of **React.js** and styled effortlessly using **Tailwind CSS**, it ensures a seamless shopping experience.  
 
+🌐 **[Live Demo - Cartly](https://cartly-six.vercel.app/)** 👈  
+> Explore the live demo to experience Cartly's sleek design and intuitive features!  
+
 ---
 
 ## 🌟 **Features You'll Love**  
